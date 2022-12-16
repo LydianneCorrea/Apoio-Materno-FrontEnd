@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "name": "Anjos do Brasil.",
+      "email": "anjo@gmail.com",
+      "phone": "5555-5555",
+      "active": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Beatriz Oliveira",
+      "email": "BeaSKZ@gmail.com",
+      "phone": "9999-5555"
+    },
+    {
+      "id": 3,
+      "name": "Layza Corrêa",
+      "email": "layza@gmail.com",
+      "phone": "9878-57894"
+    },
+    {
+      "id": 4,
+      "name": "Elas prosperam",
+      "email": "elaspros@outlook.com",
+      "phone": "3354-7897"
+    },
+    {
+      "name": "Empreender 360",
+      "email": "empreender360@gmail.com",
+      "phone": "3654-4568",
+      "active": true,
+      "id": 5
+    }
+  ]
+}
