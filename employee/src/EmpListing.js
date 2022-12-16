@@ -40,7 +40,7 @@ const EmpListing = () => {
         <div className="container">
             <div className="card">
                 <div className="card-title">
-                    <h2>Cadastro de Dados.</h2>
+                    <h2>LISTA DE CADASTRO</h2>
                 </div>
                 <div className="card-body">
                     <div className="divbtn">

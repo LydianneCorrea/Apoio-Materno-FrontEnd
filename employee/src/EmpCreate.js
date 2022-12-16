@@ -55,9 +55,9 @@ const EmpCreate = () => {
 
                                     <div className="col-lg-12">
                                         <div className="form-group">
-                                            <label>Nome|Instituição</label>
+                                            <label>Nome ou Instituição</label>
                                             <input required value={name} onMouseDown={e => valchange(true)} onChange={e => namechange(e.target.value)} className="form-control"></input>
-                                            {name.length == 0 && validation && <span className="text-danger">Enter the name</span>}
+                                            {name.length == 0 && validation && <span className="text-danger">Entre com um nome</span>}
                                         </div>
                                     </div>
 
